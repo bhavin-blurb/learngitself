@@ -7,3 +7,5 @@ Changed it to check.
 Commented from gitpull directory.
 
 updated gitpull file for confliction.
+
+checked already updated file before pulling
