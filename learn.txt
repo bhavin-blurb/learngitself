@@ -5,3 +5,5 @@ Changed it to check.
 30 5 changed this date.
 
 Commented from gitpull directory.
+
+updated gitpull file for confliction.
